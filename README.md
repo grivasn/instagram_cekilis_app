@@ -35,7 +35,7 @@ pip install streamlit selenium
 3. Uygulamayı başlatın:
 
    ```bash
-   streamlit run app.py
+   streamlit run insta_draw.py
    ```
 
 4. Tarayıcıda açılan arayüzde:
